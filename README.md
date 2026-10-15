@@ -40,10 +40,11 @@ For assistance, reply HELP or contact us at:
 - Email: styler@emapugetsound.com
 
 Information Sharing
-EMA Puget Sound does not sell, rent, or share your mobile phone number or SMS consent information with third parties for marketing purposes.
+SMS Service Data Sharing
 
-We may share information with service providers who assist us in operating our messaging services, provided they maintain the confidentiality and security of your information and use it only for authorized business purposes.
+Your data will not be transferred to external organizations except when strictly necessary to provide the SMS service.
 
+Where such limited sharing is required, the service providers may use or disclose your data only for the purpose of delivering the SMS service and must do so under appropriate confidentiality and security obligations.
 Data Security
 We implement reasonable administrative, technical, and physical safeguards to protect your personal information from unauthorized access, disclosure, or misuse.
 
