@@ -50,6 +50,15 @@ We implement reasonable administrative, technical, and physical safeguards to pr
 
 Please note that SMS communications are not always secure, and you should avoid sending highly sensitive medical or personal information by text message unless specifically instructed by our office.
 
+Mobile Information and SMS Data
+We prohibit the sharing, transfer, or disclosure of mobile information, SMS consent, and text messaging originator data with third parties or affiliates for marketing or promotional purposes.
+
+Disclosure Restrictions
+Consumer data will not be transferred to, shared with, or disclosed to external organizations except as necessary for essential SMS platform delivery.
+
+Confidentiality and Security
+We preserve existing confidentiality, access control, and security provisions to protect consumer data and to prevent unauthorized sharing, transfer, or disclosure.
+
 HIPAA Considerations
 As a healthcare provider, EMA Puget Sound is committed to complying with applicable healthcare privacy laws, including the Health Insurance Portability and Accountability Act (“HIPAA”), where applicable.
 
